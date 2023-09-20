@@ -1,5 +1,5 @@
 function tocaSomPom (seletorAudio) {
-document.querySelector(idElementoAudio).play();
+document.querySelector(seletorAudio).play();
 }
 
 if (elemento && elemento.localName== 'audio'{
